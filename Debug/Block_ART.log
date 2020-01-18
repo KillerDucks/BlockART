@@ -1,0 +1,5 @@
+﻿  Block.cpp
+C:\Users\x86bi\source\repos\Block_ART\Block.cpp(87): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Block_ART.cpp
+  Generating Code...
+  Block_ART.vcxproj -> C:\Users\x86bi\source\repos\Block_ART\Debug\Block_ART.exe
