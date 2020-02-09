@@ -1,8 +1,1 @@
-﻿  Block.cpp
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(151): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(169): warning C4018: '<': signed/unsigned mismatch
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(295): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(342): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(385): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
-C:\Users\x86bi\source\repos\Block_ART\Block.cpp(327): warning C4715: 'Block_A::Read': not all control paths return a value
-  Block_ART.vcxproj -> C:\Users\x86bi\source\repos\Block_ART\Debug\Block_ART.exe
+﻿
